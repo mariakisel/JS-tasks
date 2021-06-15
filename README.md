@@ -7,4 +7,5 @@
   <li><a href="https://github.com/mariakisel/functions-SB">Функции</a></li>
   <li><a href="https://github.com/mariakisel/objects-SB">Объекты</a></li>
   <li><a href="https://github.com/mariakisel/dom-basics-SB">DOM</a></li>
+  <li><a href="https://github.com/mariakisel/All-tasks-JS">Задачи RolingScopes</a></li>
 </ol>
